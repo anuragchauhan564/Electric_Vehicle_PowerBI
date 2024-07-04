@@ -1,6 +1,6 @@
 # Electric Vehicle Analysis Using PowerBI
 
-![Demo](EB_project.gif)
+![Demo](EV_project.gif)
 
 ### Problem Statements
 #### KPI'S Requirements
