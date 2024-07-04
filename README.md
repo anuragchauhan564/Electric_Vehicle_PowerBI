@@ -2,7 +2,7 @@
 
 ![Demo](EV_project.gif)
 
-### Problem Statements
+## Problem Statements
 #### KPI'S Requirements
 1. Total Vehicles:
     - Understanding the overall landscape og electric vehicle, encompassing both BEV's and PHEVs, to assess the market size and growth.
